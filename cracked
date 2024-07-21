@@ -64,7 +64,7 @@ getgenv().Howl = {
         Enabled = true,
         SpinSpeed = 4900,
         Degrees = 360,
-        Keybind = Enum.KeyCode.V,
+        Keybind = Enum.KeyCode.X,
     },
 }
 
