@@ -1,6 +1,6 @@
 getgenv().Howl = {
     Aimbot = {
-        Keybind = Enum.KeyCode.X,
+        Keybind = Enum.KeyCode.Z,
         AimBotSkid = 0.187,
         Prediction = 0.1247724521,
 
